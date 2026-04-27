@@ -1,25 +1,41 @@
-## Hi there 👋 It's me Tamizh
+## Hi there 👋 I'm Tamizh
 
-Software Engineer 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Software Engineer focused on **backend systems, distributed systems, APIs, and practical AI-assisted tooling**.  
+Currently pursuing my **M.S. in Software Engineering** and building things around **Go, Python, Java, C++, cloud infrastructure, and runtime systems**.
 
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tamizh-selvan-tech/)
-- 😄 Pronouns: Techie
-- 💬 Ask me about **Golang, Java,Cpp, Data Structures and Algorithms**
-- 📫 How to reach me: **tamizhselvan0168@gmail.com**
+<img align="right" width="360" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="coding gif"/>
 
+### About me
+- 🚀 I enjoy building **reliable backend systems**, **automation workflows**, and **performance-focused infrastructure**
+- 🧠 Currently exploring **AI systems**, **RAG workflows**, **inference runtimes**, and **observability**
+- 💬 Ask me about **Go, Python, Java, C++, distributed systems, APIs, and DSA**
+- 📫 Reach me at: **tamizhselvangrad0168@gmail.com**
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tamizh-selvan-tech/)
 
-### I code in
-<img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
+### Tech I work with
+<p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="Go"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="Redis"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL"/>
+</p>
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/><img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/><img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+### What I'm building
+- Backend systems and APIs
+- Distributed and event-driven systems
+- AI-assisted developer and SRE tooling
+- Sensor replay / inference runtimes
+- Automation and observability workflows
 
-
-
-
-![Tamizh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamizhselvan14&theme=dark&show_icons=true&&hide=issues,contribs)
-
+### GitHub Stats
+![Tamizh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamizhselvan14&theme=dark&show_icons=true&hide=issues,contribs)
 
 [![Tamizh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tamizhselvan14&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
